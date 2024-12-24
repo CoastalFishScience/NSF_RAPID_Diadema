@@ -1,0 +1,359 @@
+"period","location","site","plot","counts","mean_size","sd_size"
+"after 12mo","Maguey","08","69",0,0,NA
+"after 6mo","Maguey","08","69",0,0,NA
+"dieoff","Maguey","08","69",0,0,NA
+"after 12mo","Maguey","08","70",0,0,NA
+"after 6mo","Maguey","08","70",0,0,NA
+"baseline","Maguey","08","70",0,0,NA
+"dieoff","Maguey","08","70",0,0,NA
+"after 12mo","Maguey","08","71",0,0,NA
+"after 6mo","Maguey","08","71",0,0,NA
+"baseline","Maguey","08","71",0,0,NA
+"dieoff","Maguey","08","71",0,0,NA
+"after 6mo","Maguey","08","72",0,0,NA
+"baseline","Maguey","08","72",0,0,NA
+"dieoff","Maguey","08","72",0,0,NA
+"after 12mo","Maguey","10","81",0,0,NA
+"after 6mo","Maguey","10","81",0,0,NA
+"baseline","Maguey","10","81",0,0,NA
+"dieoff","Maguey","10","81",0,0,NA
+"after 12mo","Maguey","10","82",0,0,NA
+"after 6mo","Maguey","10","82",0,0,NA
+"baseline","Maguey","10","82",11,2.09090909090909,0.943879807448539
+"dieoff","Maguey","10","82",0,0,NA
+"after 12mo","Maguey","10","83",0,0,NA
+"after 6mo","Maguey","10","83",0,0,NA
+"baseline","Maguey","10","83",0,0,NA
+"dieoff","Maguey","10","83",0,0,NA
+"after 12mo","Maguey","10","84",0,0,NA
+"after 6mo","Maguey","10","84",0,0,NA
+"baseline","Maguey","10","84",0,0,NA
+"after 6mo","Maguey","12","53",0,0,NA
+"baseline","Maguey","12","53",0,0,NA
+"dieoff","Maguey","12","53",0,0,NA
+"after 12mo","Maguey","12","54",0,0,NA
+"after 6mo","Maguey","12","54",0,0,NA
+"baseline","Maguey","12","54",0,0,NA
+"dieoff","Maguey","12","54",0,0,NA
+"after 6mo","Maguey","12","55",0,0,NA
+"baseline","Maguey","12","55",0,0,NA
+"dieoff","Maguey","12","55",0,0,NA
+"after 12mo","Maguey","12","56",0,0,NA
+"after 6mo","Maguey","12","56",0,0,NA
+"dieoff","Maguey","12","56",0,0,NA
+"after 12mo","Maguey","15","61",1,1,NA
+"after 6mo","Maguey","15","61",0,0,NA
+"baseline","Maguey","15","61",8,1.25,0.462910049886276
+"dieoff","Maguey","15","61",0,0,NA
+"after 12mo","Maguey","15","62",0,0,NA
+"after 6mo","Maguey","15","62",0,0,NA
+"baseline","Maguey","15","62",7,2.14285714285714,0.899735410842437
+"dieoff","Maguey","15","62",0,0,NA
+"after 12mo","Maguey","15","63",0,0,NA
+"after 6mo","Maguey","15","63",0,0,NA
+"baseline","Maguey","15","63",0,0,NA
+"dieoff","Maguey","15","63",0,0,NA
+"after 6mo","Maguey","15","64",0,0,NA
+"baseline","Maguey","15","64",0,0,NA
+"dieoff","Maguey","15","64",0,0,NA
+"after 12mo","Maguey","17","89",1,1,NA
+"after 6mo","Maguey","17","89",0,0,NA
+"baseline","Maguey","17","89",0,0,NA
+"after 12mo","Maguey","17","90",0,0,NA
+"after 6mo","Maguey","17","90",0,0,NA
+"baseline","Maguey","17","90",0,0,NA
+"after 12mo","Maguey","17","91",0,0,NA
+"baseline","Maguey","17","91",2,1,0
+"after 12mo","Maguey","17","92",0,0,NA
+"after 6mo","Maguey","17","92",0,0,NA
+"baseline","Maguey","17","92",0,0,NA
+"after 12mo","Maguey","28","73",0,0,NA
+"after 6mo","Maguey","28","73",0,0,NA
+"baseline","Maguey","28","73",3,1.33333333333333,0.577350269189626
+"dieoff","Maguey","28","73",0,0,NA
+"after 12mo","Maguey","28","74",1,1,NA
+"after 6mo","Maguey","28","74",0,0,NA
+"baseline","Maguey","28","74",1,1,NA
+"dieoff","Maguey","28","74",0,0,NA
+"after 12mo","Maguey","28","75",0,0,NA
+"after 6mo","Maguey","28","75",0,0,NA
+"dieoff","Maguey","28","75",0,0,NA
+"after 12mo","Maguey","28","76",0,0,NA
+"after 6mo","Maguey","28","76",0,0,NA
+"baseline","Maguey","28","76",0,0,NA
+"dieoff","Maguey","28","76",0,0,NA
+"after 12mo","Maguey","38","57",0,0,NA
+"after 6mo","Maguey","38","57",0,0,NA
+"baseline","Maguey","38","57",0,0,NA
+"dieoff","Maguey","38","57",0,0,NA
+"after 12mo","Maguey","38","58",0,0,NA
+"after 6mo","Maguey","38","58",0,0,NA
+"baseline","Maguey","38","58",0,0,NA
+"dieoff","Maguey","38","58",0,0,NA
+"after 12mo","Maguey","38","59",0,0,NA
+"after 6mo","Maguey","38","59",0,0,NA
+"baseline","Maguey","38","59",0,0,NA
+"dieoff","Maguey","38","59",0,0,NA
+"after 12mo","Maguey","38","60",0,0,NA
+"after 6mo","Maguey","38","60",0,0,NA
+"baseline","Maguey","38","60",0,0,NA
+"dieoff","Maguey","38","60",0,0,NA
+"after 12mo","Maguey","43","65",0,0,NA
+"after 6mo","Maguey","43","65",0,0,NA
+"baseline","Maguey","43","65",0,0,NA
+"dieoff","Maguey","43","65",0,0,NA
+"after 12mo","Maguey","43","66",0,0,NA
+"after 6mo","Maguey","43","66",0,0,NA
+"baseline","Maguey","43","66",6,1.5,0.836660026534076
+"dieoff","Maguey","43","66",0,0,NA
+"after 12mo","Maguey","43","67",0,0,NA
+"after 6mo","Maguey","43","67",0,0,NA
+"baseline","Maguey","43","67",0,0,NA
+"dieoff","Maguey","43","67",0,0,NA
+"after 12mo","Maguey","43","68",0,0,NA
+"after 6mo","Maguey","43","68",0,0,NA
+"baseline","Maguey","43","68",2,1.5,0.707106781186548
+"dieoff","Maguey","43","68",0,0,NA
+"after 12mo","Maguey","45","85",0,0,NA
+"after 6mo","Maguey","45","85",0,0,NA
+"baseline","Maguey","45","85",0,0,NA
+"dieoff","Maguey","45","85",0,0,NA
+"after 12mo","Maguey","45","86",0,0,NA
+"after 6mo","Maguey","45","86",0,0,NA
+"dieoff","Maguey","45","86",0,0,NA
+"after 12mo","Maguey","45","87",0,0,NA
+"after 6mo","Maguey","45","87",0,0,NA
+"baseline","Maguey","45","87",0,0,NA
+"dieoff","Maguey","45","87",0,0,NA
+"after 12mo","Maguey","45","88",0,0,NA
+"after 6mo","Maguey","45","88",0,0,NA
+"baseline","Maguey","45","88",6,1.5,0.547722557505166
+"dieoff","Maguey","45","88",0,0,NA
+"after 12mo","Maguey","48","49",0,0,NA
+"after 6mo","Maguey","48","49",0,0,NA
+"baseline","Maguey","48","49",0,0,NA
+"dieoff","Maguey","48","49",0,0,NA
+"after 12mo","Maguey","48","50",0,0,NA
+"after 6mo","Maguey","48","50",0,0,NA
+"baseline","Maguey","48","50",0,0,NA
+"dieoff","Maguey","48","50",0,0,NA
+"after 12mo","Maguey","48","51",0,0,NA
+"after 6mo","Maguey","48","51",0,0,NA
+"baseline","Maguey","48","51",0,0,NA
+"dieoff","Maguey","48","51",0,0,NA
+"after 12mo","Maguey","48","52",0,0,NA
+"after 6mo","Maguey","48","52",0,0,NA
+"baseline","Maguey","48","52",0,0,NA
+"dieoff","Maguey","48","52",0,0,NA
+"after 12mo","Maguey","73","77",1,1,NA
+"after 6mo","Maguey","73","77",1,1,NA
+"baseline","Maguey","73","77",27,1.88888888888889,0.751067616198811
+"dieoff","Maguey","73","77",2,1,0
+"after 12mo","Maguey","73","78",0,0,NA
+"after 6mo","Maguey","73","78",1,1,NA
+"baseline","Maguey","73","78",16,1.875,0.5
+"dieoff","Maguey","73","78",0,0,NA
+"after 12mo","Maguey","73","79",0,0,NA
+"after 6mo","Maguey","73","79",0,0,NA
+"baseline","Maguey","73","79",21,1.66666666666667,0.577350269189626
+"dieoff","Maguey","73","79",0,0,NA
+"after 12mo","Maguey","73","80",1,1,NA
+"dieoff","Maguey","73","80",0,0,NA
+"after 12mo","Maguey","74","93",0,0,NA
+"after 6mo","Maguey","74","93",0,0,NA
+"baseline","Maguey","74","93",8,1.375,0.517549169506766
+"dieoff","Maguey","74","93",0,0,NA
+"after 12mo","Maguey","74","94",1,1,NA
+"after 6mo","Maguey","74","94",0,0,NA
+"baseline","Maguey","74","94",8,1.5,0.534522483824849
+"dieoff","Maguey","74","94",0,0,NA
+"after 12mo","Maguey","74","95",0,0,NA
+"after 6mo","Maguey","74","95",0,0,NA
+"baseline","Maguey","74","95",14,2.07142857142857,1.07161170596054
+"dieoff","Maguey","74","95",0,0,NA
+"after 12mo","Maguey","74","96",1,1,NA
+"after 6mo","Maguey","74","96",0,0,NA
+"baseline","Maguey","74","96",21,1.95238095238095,0.589592272353571
+"dieoff","Maguey","74","96",0,0,NA
+"after 12mo","Tampico","01","14",0,0,NA
+"after 6mo","Tampico","01","14",0,0,NA
+"baseline","Tampico","01","14",0,0,NA
+"dieoff","Tampico","01","14",0,0,NA
+"after 12mo","Tampico","01","15",1,2,NA
+"after 6mo","Tampico","01","15",0,0,NA
+"baseline","Tampico","01","15",12,1.66666666666667,0.492365963917331
+"dieoff","Tampico","01","15",0,0,NA
+"after 12mo","Tampico","01","16",0,0,NA
+"after 6mo","Tampico","01","16",0,0,NA
+"baseline","Tampico","01","16",0,0,NA
+"dieoff","Tampico","01","16",1,1,NA
+"after 12mo","Tampico","04","05",0,0,NA
+"after 6mo","Tampico","04","05",0,0,NA
+"baseline","Tampico","04","05",0,0,NA
+"dieoff","Tampico","04","05",0,0,NA
+"after 12mo","Tampico","04","06",0,0,NA
+"after 6mo","Tampico","04","06",0,0,NA
+"dieoff","Tampico","04","06",1,1,NA
+"after 12mo","Tampico","04","07",0,0,NA
+"after 6mo","Tampico","04","07",0,0,NA
+"baseline","Tampico","04","07",3,1,0
+"dieoff","Tampico","04","07",0,0,NA
+"after 12mo","Tampico","04","08",0,0,NA
+"after 6mo","Tampico","04","08",0,0,NA
+"baseline","Tampico","04","08",0,0,NA
+"dieoff","Tampico","04","08",0,0,NA
+"after 12mo","Tampico","20","09",0,0,NA
+"after 6mo","Tampico","20","09",0,0,NA
+"baseline","Tampico","20","09",1,1,NA
+"dieoff","Tampico","20","09",1,1,NA
+"after 12mo","Tampico","20","10",0,0,NA
+"after 6mo","Tampico","20","10",0,0,NA
+"baseline","Tampico","20","10",0,0,NA
+"dieoff","Tampico","20","10",1,1,NA
+"after 12mo","Tampico","20","11",0,0,NA
+"after 6mo","Tampico","20","11",0,0,NA
+"baseline","Tampico","20","11",5,1.6,0.547722557505166
+"dieoff","Tampico","20","11",1,1,NA
+"after 12mo","Tampico","20","12",0,0,NA
+"after 6mo","Tampico","20","12",0,0,NA
+"baseline","Tampico","20","12",2,1,0
+"dieoff","Tampico","20","12",1,1,NA
+"after 12mo","Tampico","22","33",0,0,NA
+"after 6mo","Tampico","22","33",0,0,NA
+"baseline","Tampico","22","33",0,0,NA
+"dieoff","Tampico","22","33",0,0,NA
+"after 12mo","Tampico","22","34",0,0,NA
+"after 6mo","Tampico","22","34",0,0,NA
+"baseline","Tampico","22","34",0,0,NA
+"dieoff","Tampico","22","34",0,0,NA
+"after 12mo","Tampico","22","35",0,0,NA
+"after 6mo","Tampico","22","35",0,0,NA
+"baseline","Tampico","22","35",0,0,NA
+"dieoff","Tampico","22","35",0,0,NA
+"after 12mo","Tampico","22","36",0,0,NA
+"after 6mo","Tampico","22","36",0,0,NA
+"baseline","Tampico","22","36",2,1,0
+"dieoff","Tampico","22","36",0,0,NA
+"after 12mo","Tampico","23","45",1,1,NA
+"after 6mo","Tampico","23","45",0,0,NA
+"baseline","Tampico","23","45",13,1.84615384615385,0.898717034272917
+"dieoff","Tampico","23","45",0,0,NA
+"after 12mo","Tampico","23","46",1,1,NA
+"after 6mo","Tampico","23","46",0,0,NA
+"baseline","Tampico","23","46",4,1.75,1.5
+"dieoff","Tampico","23","46",0,0,NA
+"after 12mo","Tampico","23","47",0,0,NA
+"after 6mo","Tampico","23","47",0,0,NA
+"baseline","Tampico","23","47",3,1.66666666666667,1.15470053837925
+"dieoff","Tampico","23","47",0,0,NA
+"after 12mo","Tampico","23","48",1,1,NA
+"baseline","Tampico","23","48",23,2.26086956521739,0.963770592485946
+"dieoff","Tampico","23","48",0,0,NA
+"after 12mo","Tampico","24","29",0,0,NA
+"after 6mo","Tampico","24","29",0,0,NA
+"baseline","Tampico","24","29",0,0,NA
+"dieoff","Tampico","24","29",0,0,NA
+"after 12mo","Tampico","24","30",0,0,NA
+"after 6mo","Tampico","24","30",0,0,NA
+"baseline","Tampico","24","30",0,0,NA
+"dieoff","Tampico","24","30",0,0,NA
+"after 12mo","Tampico","24","31",0,0,NA
+"after 6mo","Tampico","24","31",0,0,NA
+"baseline","Tampico","24","31",0,0,NA
+"dieoff","Tampico","24","31",0,0,NA
+"after 12mo","Tampico","24","32",0,0,NA
+"after 6mo","Tampico","24","32",0,0,NA
+"baseline","Tampico","24","32",0,0,NA
+"dieoff","Tampico","24","32",0,0,NA
+"after 6mo","Tampico","26","41",0,0,NA
+"after 6mo","Tampico","26","42",0,0,NA
+"after 6mo","Tampico","26","43",0,0,NA
+"after 6mo","Tampico","26","44",0,0,NA
+"dieoff","Tampico","26","45",0,0,NA
+"dieoff","Tampico","26","46",0,0,NA
+"dieoff","Tampico","26","47",0,0,NA
+"dieoff","Tampico","26","48",0,0,0
+"after 12mo","Tampico","35","01",0,0,NA
+"after 6mo","Tampico","35","01",0,0,NA
+"baseline","Tampico","35","01",2,1,0
+"dieoff","Tampico","35","01",0,0,NA
+"after 12mo","Tampico","35","02",0,0,NA
+"after 6mo","Tampico","35","02",0,0,NA
+"baseline","Tampico","35","02",0,0,NA
+"dieoff","Tampico","35","02",0,0,NA
+"after 12mo","Tampico","35","03",0,0,NA
+"after 6mo","Tampico","35","03",0,0,NA
+"baseline","Tampico","35","03",2,1,0
+"dieoff","Tampico","35","03",0,0,NA
+"after 12mo","Tampico","35","04",0,0,NA
+"after 6mo","Tampico","35","04",0,0,NA
+"baseline","Tampico","35","04",8,1.25,0.462910049886276
+"dieoff","Tampico","35","04",0,0,NA
+"after 12mo","Tampico","37","17",1,1,NA
+"after 6mo","Tampico","37","17",1,0,NA
+"baseline","Tampico","37","17",0,0,NA
+"dieoff","Tampico","37","17",0,0,NA
+"after 12mo","Tampico","37","18",0,0,NA
+"after 6mo","Tampico","37","18",0,0,NA
+"baseline","Tampico","37","18",4,1.25,0.5
+"dieoff","Tampico","37","18",1,1,NA
+"after 12mo","Tampico","37","19",0,0,NA
+"after 6mo","Tampico","37","19",0,0,NA
+"baseline","Tampico","37","19",0,0,NA
+"dieoff","Tampico","37","19",0,0,NA
+"after 12mo","Tampico","37","20",0,0,NA
+"after 6mo","Tampico","37","20",0,0,NA
+"baseline","Tampico","37","20",3,1,0
+"dieoff","Tampico","37","20",0,0,NA
+"after 12mo","Tampico","39","37",1,1,NA
+"after 6mo","Tampico","39","37",0,0,NA
+"baseline","Tampico","39","37",0,0,NA
+"dieoff","Tampico","39","37",0,0,NA
+"after 12mo","Tampico","39","38",0,0,NA
+"after 6mo","Tampico","39","38",0,0,NA
+"baseline","Tampico","39","38",0,0,NA
+"dieoff","Tampico","39","38",0,0,NA
+"after 12mo","Tampico","39","39",0,0,NA
+"after 6mo","Tampico","39","39",0,0,NA
+"baseline","Tampico","39","39",0,0,NA
+"dieoff","Tampico","39","39",0,0,NA
+"after 12mo","Tampico","39","40",0,0,NA
+"after 6mo","Tampico","39","40",0,0,NA
+"baseline","Tampico","39","40",1,1,NA
+"dieoff","Tampico","39","40",1,1,NA
+"after 12mo","Tampico","43","21",0,0,NA
+"after 6mo","Tampico","43","21",0,0,NA
+"baseline","Tampico","43","21",0,0,NA
+"dieoff","Tampico","43","21",0,0,NA
+"after 12mo","Tampico","43","22",0,0,NA
+"after 6mo","Tampico","43","22",0,0,NA
+"baseline","Tampico","43","22",0,0,NA
+"dieoff","Tampico","43","22",0,0,NA
+"after 12mo","Tampico","43","23",0,0,NA
+"after 6mo","Tampico","43","23",0,0,NA
+"baseline","Tampico","43","23",5,1.2,0.447213595499958
+"dieoff","Tampico","43","23",0,0,NA
+"after 12mo","Tampico","43","24",0,0,NA
+"after 6mo","Tampico","43","24",0,0,NA
+"baseline","Tampico","43","24",0,0,NA
+"dieoff","Tampico","43","24",0,0,NA
+"after 12mo","Tampico","45","25",0,0,NA
+"after 6mo","Tampico","45","25",0,0,NA
+"baseline","Tampico","45","25",0,0,NA
+"dieoff","Tampico","45","25",0,0,NA
+"after 12mo","Tampico","45","26",1,1,NA
+"after 6mo","Tampico","45","26",0,0,NA
+"baseline","Tampico","45","26",0,0,NA
+"dieoff","Tampico","45","26",0,0,NA
+"after 12mo","Tampico","45","27",0,0,NA
+"after 6mo","Tampico","45","27",0,0,NA
+"baseline","Tampico","45","27",0,0,NA
+"dieoff","Tampico","45","27",0,0,NA
+"after 12mo","Tampico","45","28",0,0,NA
+"after 6mo","Tampico","45","28",0,0,NA
+"baseline","Tampico","45","28",0,0,NA
+"dieoff","Tampico","45","28",0,0,NA
+"baseline","Tampico","77","41",0,0,NA
+"baseline","Tampico","77","42",0,0,NA
+"baseline","Tampico","77","43",0,0,NA
+"baseline","Tampico","77","44",0,0,NA
