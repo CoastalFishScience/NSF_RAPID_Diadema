@@ -1,0 +1,30 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Data analysis code for: RAPID: Here we go again - The fate
+  of Diadema antillarum and Caribbean reefs in the 21st
+  century
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Rolando
+    family-names: Santos
+    name-particle: O
+    affiliation: Florida International University
+  - given-names: Nicolas
+    family-names: Rivas
+    affiliation: Florida International University
+  - given-names: W. Ryan
+    family-names: James
+    affiliation: Florida International University
+  - given-names: Alex E.
+    family-names: Mercado-Molina
+    affiliation: Sociedad Ambiente Marino
+  - given-names: Jennifer S.
+    family-names: Rehage
+    affiliation: Florida International University
+repository-code: 'https://github.com/CoastalFishScience/NSF_RAPID_Diadema'
