@@ -1,0 +1,582 @@
+"period","yearmonth","location","site","plot","cluster","clustersize"
+"baseline",2021,"Maguey","08","70",0,0
+"baseline",2021,"Maguey","08","71",0,0
+"baseline",2021,"Maguey","08","72",0,0
+"baseline",2021,"Maguey","10","81",0,0
+"baseline",2021,"Maguey","10","83",0,0
+"baseline",2021,"Maguey","10","84",0,0
+"baseline",2021,"Maguey","10","82",1,3
+"baseline",2021,"Maguey","10","82",2,2
+"baseline",2021,"Maguey","10","82",3,1
+"baseline",2021,"Maguey","10","82",4,3
+"baseline",2021,"Maguey","10","82",5,1
+"baseline",2021,"Maguey","10","82",6,1
+"baseline",2021,"Maguey","10","82",7,2
+"baseline",2021,"Maguey","10","82",8,4
+"baseline",2021,"Maguey","10","82",9,2
+"baseline",2021,"Maguey","10","82",10,2
+"baseline",2021,"Maguey","10","82",11,2
+"baseline",2021,"Maguey","12","55",0,0
+"baseline",2021,"Maguey","12","53",0,0
+"baseline",2021,"Maguey","12","54",0,0
+"baseline",2021,"Maguey","15","61",1,1
+"baseline",2021,"Maguey","15","61",2,2
+"baseline",2021,"Maguey","15","61",3,1
+"baseline",2021,"Maguey","15","61",4,2
+"baseline",2021,"Maguey","15","61",5,1
+"baseline",2021,"Maguey","15","61",6,1
+"baseline",2021,"Maguey","15","61",7,1
+"baseline",2021,"Maguey","15","61",8,1
+"baseline",2021,"Maguey","15","62",1,2
+"baseline",2021,"Maguey","15","62",2,4
+"baseline",2021,"Maguey","15","62",3,2
+"baseline",2021,"Maguey","15","62",4,2
+"baseline",2021,"Maguey","15","62",5,2
+"baseline",2021,"Maguey","15","62",6,2
+"baseline",2021,"Maguey","15","62",7,1
+"baseline",2021,"Maguey","15","63",0,0
+"baseline",2021,"Maguey","15","64",0,0
+"baseline",2021,"Maguey","17","89",0,0
+"baseline",2021,"Maguey","17","90",0,0
+"baseline",2021,"Maguey","17","91",1,1
+"baseline",2021,"Maguey","17","91",2,1
+"baseline",2021,"Maguey","17","92",0,0
+"baseline",2021,"Maguey","28","73",1,1
+"baseline",2021,"Maguey","28","73",2,1
+"baseline",2021,"Maguey","28","73",3,2
+"baseline",2021,"Maguey","28","74",1,1
+"baseline",2021,"Maguey","28","76",0,0
+"baseline",2021,"Maguey","38","57",0,0
+"baseline",2021,"Maguey","38","58",0,0
+"baseline",2021,"Maguey","38","59",0,0
+"baseline",2021,"Maguey","38","60",0,0
+"baseline",2021,"Maguey","43","65",0,0
+"baseline",2021,"Maguey","43","66",1,1
+"baseline",2021,"Maguey","43","66",2,1
+"baseline",2021,"Maguey","43","66",3,2
+"baseline",2021,"Maguey","43","66",4,1
+"baseline",2021,"Maguey","43","66",5,1
+"baseline",2021,"Maguey","43","66",6,3
+"baseline",2021,"Maguey","43","67",0,0
+"baseline",2021,"Maguey","43","68",1,2
+"baseline",2021,"Maguey","43","68",2,1
+"baseline",2021,"Maguey","45","85",0,0
+"baseline",2021,"Maguey","45","87",0,0
+"baseline",2021,"Maguey","45","88",1,2
+"baseline",2021,"Maguey","45","88",2,2
+"baseline",2021,"Maguey","45","88",3,1
+"baseline",2021,"Maguey","45","88",4,2
+"baseline",2021,"Maguey","45","88",5,1
+"baseline",2021,"Maguey","45","88",6,1
+"baseline",2021,"Maguey","48","49",0,0
+"baseline",2021,"Maguey","48","50",0,0
+"baseline",2021,"Maguey","48","51",0,0
+"baseline",2021,"Maguey","48","52",0,0
+"baseline",2021,"Maguey","73","77",1,2
+"baseline",2021,"Maguey","73","77",2,2
+"baseline",2021,"Maguey","73","77",3,1
+"baseline",2021,"Maguey","73","77",4,1
+"baseline",2021,"Maguey","73","77",5,2
+"baseline",2021,"Maguey","73","77",6,1
+"baseline",2021,"Maguey","73","77",7,2
+"baseline",2021,"Maguey","73","77",8,3
+"baseline",2021,"Maguey","73","77",9,2
+"baseline",2021,"Maguey","73","77",10,1
+"baseline",2021,"Maguey","73","77",11,1
+"baseline",2021,"Maguey","73","77",12,1
+"baseline",2021,"Maguey","73","77",13,1
+"baseline",2021,"Maguey","73","77",14,2
+"baseline",2021,"Maguey","73","77",15,3
+"baseline",2021,"Maguey","73","77",16,3
+"baseline",2021,"Maguey","73","77",17,2
+"baseline",2021,"Maguey","73","77",18,3
+"baseline",2021,"Maguey","73","77",19,1
+"baseline",2021,"Maguey","73","77",20,3
+"baseline",2021,"Maguey","73","77",21,2
+"baseline",2021,"Maguey","73","77",22,2
+"baseline",2021,"Maguey","73","77",23,3
+"baseline",2021,"Maguey","73","77",24,2
+"baseline",2021,"Maguey","73","77",25,2
+"baseline",2021,"Maguey","73","77",26,1
+"baseline",2021,"Maguey","73","77",27,2
+"baseline",2021,"Maguey","73","78",1,1
+"baseline",2021,"Maguey","73","78",2,2
+"baseline",2021,"Maguey","73","78",3,1
+"baseline",2021,"Maguey","73","78",4,2
+"baseline",2021,"Maguey","73","78",5,2
+"baseline",2021,"Maguey","73","78",6,2
+"baseline",2021,"Maguey","73","78",7,2
+"baseline",2021,"Maguey","73","78",8,2
+"baseline",2021,"Maguey","73","78",9,3
+"baseline",2021,"Maguey","73","78",10,2
+"baseline",2021,"Maguey","73","78",11,2
+"baseline",2021,"Maguey","73","78",12,1
+"baseline",2021,"Maguey","73","78",13,2
+"baseline",2021,"Maguey","73","78",14,2
+"baseline",2021,"Maguey","73","78",15,2
+"baseline",2021,"Maguey","73","78",16,2
+"baseline",2021,"Maguey","73","79",1,2
+"baseline",2021,"Maguey","73","79",2,2
+"baseline",2021,"Maguey","73","79",3,1
+"baseline",2021,"Maguey","73","79",4,2
+"baseline",2021,"Maguey","73","79",5,2
+"baseline",2021,"Maguey","73","79",6,3
+"baseline",2021,"Maguey","73","79",7,1
+"baseline",2021,"Maguey","73","79",8,2
+"baseline",2021,"Maguey","73","79",9,2
+"baseline",2021,"Maguey","73","79",10,1
+"baseline",2021,"Maguey","73","79",11,2
+"baseline",2021,"Maguey","73","79",12,2
+"baseline",2021,"Maguey","73","79",13,1
+"baseline",2021,"Maguey","73","79",14,1
+"baseline",2021,"Maguey","73","79",15,1
+"baseline",2021,"Maguey","73","79",16,2
+"baseline",2021,"Maguey","73","79",17,2
+"baseline",2021,"Maguey","73","79",18,1
+"baseline",2021,"Maguey","73","79",19,1
+"baseline",2021,"Maguey","73","79",20,2
+"baseline",2021,"Maguey","73","79",21,2
+"baseline",2021,"Maguey","74","93",1,1
+"baseline",2021,"Maguey","74","93",2,2
+"baseline",2021,"Maguey","74","93",3,1
+"baseline",2021,"Maguey","74","93",4,1
+"baseline",2021,"Maguey","74","93",5,1
+"baseline",2021,"Maguey","74","93",6,2
+"baseline",2021,"Maguey","74","93",7,2
+"baseline",2021,"Maguey","74","93",8,1
+"baseline",2021,"Maguey","74","94",1,2
+"baseline",2021,"Maguey","74","94",2,1
+"baseline",2021,"Maguey","74","94",3,1
+"baseline",2021,"Maguey","74","94",4,2
+"baseline",2021,"Maguey","74","94",5,2
+"baseline",2021,"Maguey","74","94",6,1
+"baseline",2021,"Maguey","74","94",7,2
+"baseline",2021,"Maguey","74","94",8,1
+"baseline",2021,"Maguey","74","95",1,4
+"baseline",2021,"Maguey","74","95",2,2
+"baseline",2021,"Maguey","74","95",3,1
+"baseline",2021,"Maguey","74","95",4,2
+"baseline",2021,"Maguey","74","95",5,1
+"baseline",2021,"Maguey","74","95",6,4
+"baseline",2021,"Maguey","74","95",7,3
+"baseline",2021,"Maguey","74","95",8,1
+"baseline",2021,"Maguey","74","95",9,1
+"baseline",2021,"Maguey","74","95",10,2
+"baseline",2021,"Maguey","74","95",11,1
+"baseline",2021,"Maguey","74","95",12,3
+"baseline",2021,"Maguey","74","95",13,2
+"baseline",2021,"Maguey","74","95",14,2
+"baseline",2021,"Maguey","74","96",1,2
+"baseline",2021,"Maguey","74","96",2,1
+"baseline",2021,"Maguey","74","96",3,3
+"baseline",2021,"Maguey","74","96",4,2
+"baseline",2021,"Maguey","74","96",5,1
+"baseline",2021,"Maguey","74","96",6,2
+"baseline",2021,"Maguey","74","96",7,2
+"baseline",2021,"Maguey","74","96",8,2
+"baseline",2021,"Maguey","74","96",9,2
+"baseline",2021,"Maguey","74","96",10,2
+"baseline",2021,"Maguey","74","96",11,2
+"baseline",2021,"Maguey","74","96",12,2
+"baseline",2021,"Maguey","74","96",13,2
+"baseline",2021,"Maguey","74","96",14,2
+"baseline",2021,"Maguey","74","96",15,2
+"baseline",2021,"Maguey","74","96",16,2
+"baseline",2021,"Maguey","74","96",17,3
+"baseline",2021,"Maguey","74","96",18,2
+"baseline",2021,"Maguey","74","96",19,1
+"baseline",2021,"Maguey","74","96",20,1
+"baseline",2021,"Maguey","74","96",21,3
+"baseline",2021,"Tampico","01","14",0,0
+"baseline",2021,"Tampico","01","15",1,1
+"baseline",2021,"Tampico","01","15",2,2
+"baseline",2021,"Tampico","01","15",3,2
+"baseline",2021,"Tampico","01","15",4,2
+"baseline",2021,"Tampico","01","15",5,2
+"baseline",2021,"Tampico","01","15",6,2
+"baseline",2021,"Tampico","01","15",7,1
+"baseline",2021,"Tampico","01","15",8,1
+"baseline",2021,"Tampico","01","15",9,2
+"baseline",2021,"Tampico","01","15",10,1
+"baseline",2021,"Tampico","01","15",11,2
+"baseline",2021,"Tampico","01","15",12,2
+"baseline",2021,"Tampico","01","16",0,0
+"baseline",2021,"Tampico","04","05",0,0
+"baseline",2021,"Tampico","04","07",1,1
+"baseline",2021,"Tampico","04","07",2,1
+"baseline",2021,"Tampico","04","07",3,1
+"baseline",2021,"Tampico","04","08",0,0
+"baseline",2021,"Tampico","20","09",1,1
+"baseline",2021,"Tampico","20","10",0,0
+"baseline",2021,"Tampico","20","11",1,1
+"baseline",2021,"Tampico","20","11",2,2
+"baseline",2021,"Tampico","20","11",3,2
+"baseline",2021,"Tampico","20","11",4,1
+"baseline",2021,"Tampico","20","11",5,2
+"baseline",2021,"Tampico","20","12",1,1
+"baseline",2021,"Tampico","20","12",2,1
+"baseline",2021,"Tampico","22","33",0,0
+"baseline",2021,"Tampico","22","34",0,0
+"baseline",2021,"Tampico","22","35",0,0
+"baseline",2021,"Tampico","22","36",1,1
+"baseline",2021,"Tampico","22","36",2,1
+"baseline",2021,"Tampico","23","45",1,1
+"baseline",2021,"Tampico","23","45",2,2
+"baseline",2021,"Tampico","23","45",3,2
+"baseline",2021,"Tampico","23","45",4,3
+"baseline",2021,"Tampico","23","45",5,1
+"baseline",2021,"Tampico","23","45",6,1
+"baseline",2021,"Tampico","23","45",7,2
+"baseline",2021,"Tampico","23","45",8,2
+"baseline",2021,"Tampico","23","45",9,2
+"baseline",2021,"Tampico","23","45",10,1
+"baseline",2021,"Tampico","23","45",11,1
+"baseline",2021,"Tampico","23","45",12,2
+"baseline",2021,"Tampico","23","45",13,4
+"baseline",2021,"Tampico","23","46",1,1
+"baseline",2021,"Tampico","23","46",2,1
+"baseline",2021,"Tampico","23","46",3,4
+"baseline",2021,"Tampico","23","46",4,1
+"baseline",2021,"Tampico","23","47",1,1
+"baseline",2021,"Tampico","23","47",2,3
+"baseline",2021,"Tampico","23","47",3,1
+"baseline",2021,"Tampico","23","48",1,2
+"baseline",2021,"Tampico","23","48",2,2
+"baseline",2021,"Tampico","23","48",3,4
+"baseline",2021,"Tampico","23","48",4,4
+"baseline",2021,"Tampico","23","48",5,2
+"baseline",2021,"Tampico","23","48",6,2
+"baseline",2021,"Tampico","23","48",7,3
+"baseline",2021,"Tampico","23","48",8,1
+"baseline",2021,"Tampico","23","48",9,2
+"baseline",2021,"Tampico","23","48",10,2
+"baseline",2021,"Tampico","23","48",11,1
+"baseline",2021,"Tampico","23","48",12,2
+"baseline",2021,"Tampico","23","48",13,4
+"baseline",2021,"Tampico","23","48",14,2
+"baseline",2021,"Tampico","23","48",15,2
+"baseline",2021,"Tampico","23","48",16,1
+"baseline",2021,"Tampico","23","48",17,2
+"baseline",2021,"Tampico","23","48",18,4
+"baseline",2021,"Tampico","23","48",19,2
+"baseline",2021,"Tampico","23","48",20,2
+"baseline",2021,"Tampico","23","48",21,1
+"baseline",2021,"Tampico","23","48",22,3
+"baseline",2021,"Tampico","23","48",23,2
+"baseline",2021,"Tampico","24","29",0,0
+"baseline",2021,"Tampico","24","30",0,0
+"baseline",2021,"Tampico","24","31",0,0
+"baseline",2021,"Tampico","24","32",0,0
+"baseline",2021,"Tampico","35","01",1,1
+"baseline",2021,"Tampico","35","01",2,1
+"baseline",2021,"Tampico","35","02",0,0
+"baseline",2021,"Tampico","35","03",1,1
+"baseline",2021,"Tampico","35","03",2,1
+"baseline",2021,"Tampico","35","04",1,1
+"baseline",2021,"Tampico","35","04",2,1
+"baseline",2021,"Tampico","35","04",3,2
+"baseline",2021,"Tampico","35","04",4,1
+"baseline",2021,"Tampico","35","04",5,1
+"baseline",2021,"Tampico","35","04",6,2
+"baseline",2021,"Tampico","35","04",7,1
+"baseline",2021,"Tampico","35","04",8,1
+"baseline",2021,"Tampico","37","17",0,0
+"baseline",2021,"Tampico","37","18",1,2
+"baseline",2021,"Tampico","37","18",2,1
+"baseline",2021,"Tampico","37","18",3,1
+"baseline",2021,"Tampico","37","18",4,1
+"baseline",2021,"Tampico","37","19",0,0
+"baseline",2021,"Tampico","37","20",1,1
+"baseline",2021,"Tampico","37","20",2,1
+"baseline",2021,"Tampico","37","20",3,1
+"baseline",2021,"Tampico","39","37",0,0
+"baseline",2021,"Tampico","39","38",0,0
+"baseline",2021,"Tampico","39","39",0,0
+"baseline",2021,"Tampico","39","40",1,1
+"baseline",2021,"Tampico","43","21",0,0
+"baseline",2021,"Tampico","43","22",0,0
+"baseline",2021,"Tampico","43","23",1,1
+"baseline",2021,"Tampico","43","23",2,1
+"baseline",2021,"Tampico","43","23",3,2
+"baseline",2021,"Tampico","43","23",4,1
+"baseline",2021,"Tampico","43","23",5,1
+"baseline",2021,"Tampico","43","24",0,0
+"baseline",2021,"Tampico","45","25",0,0
+"baseline",2021,"Tampico","45","26",0,0
+"baseline",2021,"Tampico","45","27",0,0
+"baseline",2021,"Tampico","45","28",0,0
+"baseline",2021,"Tampico","77","41",0,0
+"baseline",2021,"Tampico","77","42",0,0
+"baseline",2021,"Tampico","77","43",0,0
+"baseline",2021,"Tampico","77","44",0,0
+"dieoff",202206,"Maguey","08","69",0,0
+"dieoff",202206,"Maguey","08","70",0,0
+"dieoff",202206,"Maguey","08","71",0,0
+"dieoff",202206,"Maguey","08","72",0,0
+"dieoff",202206,"Maguey","12","53",0,0
+"dieoff",202206,"Maguey","12","54",0,0
+"dieoff",202206,"Maguey","12","55",0,0
+"dieoff",202206,"Maguey","12","56",0,0
+"dieoff",202206,"Maguey","28","73",0,0
+"dieoff",202206,"Maguey","28","74",0,0
+"dieoff",202206,"Maguey","28","75",0,0
+"dieoff",202206,"Maguey","28","76",0,0
+"dieoff",202206,"Maguey","38","57",0,0
+"dieoff",202206,"Maguey","38","58",0,0
+"dieoff",202206,"Maguey","38","59",0,0
+"dieoff",202206,"Maguey","38","60",0,0
+"dieoff",202206,"Maguey","43","65",0,0
+"dieoff",202206,"Maguey","43","66",0,0
+"dieoff",202206,"Maguey","43","67",0,0
+"dieoff",202206,"Maguey","43","68",0,0
+"dieoff",202206,"Maguey","45","85",0,0
+"dieoff",202206,"Maguey","45","86",0,0
+"dieoff",202206,"Maguey","45","87",0,0
+"dieoff",202206,"Maguey","45","88",0,0
+"dieoff",202206,"Maguey","48","49",0,0
+"dieoff",202206,"Maguey","48","50",0,0
+"dieoff",202206,"Maguey","48","51",0,0
+"dieoff",202206,"Maguey","48","52",0,0
+"dieoff",202206,"Maguey","73","77",1,1
+"dieoff",202206,"Maguey","73","77",2,1
+"dieoff",202206,"Maguey","73","78",0,0
+"dieoff",202206,"Maguey","73","79",0,0
+"dieoff",202206,"Maguey","73","80",0,0
+"dieoff",202206,"Maguey","74","93",0,0
+"dieoff",202206,"Maguey","74","94",0,0
+"dieoff",202206,"Maguey","74","95",0,0
+"dieoff",202206,"Maguey","74","96",0,0
+"dieoff",202206,"Tampico","22","33",0,0
+"dieoff",202206,"Tampico","22","34",0,0
+"dieoff",202206,"Tampico","22","35",0,0
+"dieoff",202206,"Tampico","22","36",0,0
+"dieoff",202206,"Tampico","26","45",0,0
+"dieoff",202206,"Tampico","26","46",0,0
+"dieoff",202206,"Tampico","26","47",0,0
+"dieoff",202206,"Tampico","26","48",0,0
+"dieoff",202206,"Tampico","26","48",0,0
+"dieoff",202206,"Tampico","43","21",0,0
+"dieoff",202206,"Tampico","43","22",0,0
+"dieoff",202206,"Tampico","43","23",0,0
+"dieoff",202206,"Tampico","43","24",0,0
+"dieoff",202206,"Tampico","45","25",0,0
+"dieoff",202206,"Tampico","45","26",0,0
+"dieoff",202206,"Tampico","45","27",0,0
+"dieoff",202206,"Tampico","45","28",0,0
+"dieoff",202206,"Maguey","10","81",0,0
+"dieoff",202206,"Maguey","10","82",0,0
+"dieoff",202206,"Maguey","10","83",0,0
+"dieoff",202206,"Maguey","15","61",0,0
+"dieoff",202206,"Maguey","15","62",0,0
+"dieoff",202206,"Maguey","15","63",0,0
+"dieoff",202206,"Maguey","15","64",0,0
+"dieoff",202206,"Tampico","01","14",0,0
+"dieoff",202206,"Tampico","01","15",0,0
+"dieoff",202206,"Tampico","01","16",1,1
+"dieoff",202206,"Tampico","04","05",0,0
+"dieoff",202206,"Tampico","04","06",1,1
+"dieoff",202206,"Tampico","04","07",0,0
+"dieoff",202206,"Tampico","04","08",0,0
+"dieoff",202206,"Tampico","20","09",1,1
+"dieoff",202206,"Tampico","20","10",1,1
+"dieoff",202206,"Tampico","20","11",1,1
+"dieoff",202206,"Tampico","20","12",1,1
+"dieoff",202206,"Tampico","23","45",0,0
+"dieoff",202206,"Tampico","23","46",0,0
+"dieoff",202206,"Tampico","23","47",0,0
+"dieoff",202206,"Tampico","23","48",0,0
+"dieoff",202206,"Tampico","24","29",0,0
+"dieoff",202206,"Tampico","24","30",0,0
+"dieoff",202206,"Tampico","24","31",0,0
+"dieoff",202206,"Tampico","24","32",0,0
+"dieoff",202206,"Tampico","35","01",0,0
+"dieoff",202206,"Tampico","35","02",0,0
+"dieoff",202206,"Tampico","35","03",0,0
+"dieoff",202206,"Tampico","35","04",0,0
+"dieoff",202206,"Tampico","37","17",0,0
+"dieoff",202206,"Tampico","37","18",1,1
+"dieoff",202206,"Tampico","37","19",0,0
+"dieoff",202206,"Tampico","37","20",0,0
+"dieoff",202206,"Tampico","39","37",0,0
+"dieoff",202206,"Tampico","39","38",0,0
+"dieoff",202206,"Tampico","39","39",0,0
+"dieoff",202206,"Tampico","39","40",1,1
+"after 12mo",202305,"Maguey","08","69",0,0
+"after 12mo",202305,"Maguey","08","70",0,0
+"after 12mo",202305,"Maguey","08","71",0,0
+"after 12mo",202305,"Maguey","10","84",0,0
+"after 12mo",202305,"Maguey","10","81",0,0
+"after 12mo",202305,"Maguey","10","82",0,0
+"after 12mo",202305,"Maguey","10","83",0,0
+"after 12mo",202305,"Maguey","12","56",0,0
+"after 12mo",202305,"Maguey","12","54",0,0
+"after 12mo",202305,"Maguey","15","63",0,0
+"after 12mo",202305,"Maguey","15","61",1,1
+"after 12mo",202305,"Maguey","15","62",0,0
+"after 12mo",202305,"Maguey","17","89",1,1
+"after 12mo",202305,"Maguey","17","90",0,0
+"after 12mo",202305,"Maguey","17","91",0,0
+"after 12mo",202305,"Maguey","17","92",0,0
+"after 12mo",202305,"Maguey","28","74",1,1
+"after 12mo",202305,"Maguey","28","73",0,0
+"after 12mo",202305,"Maguey","28","75",0,0
+"after 12mo",202305,"Maguey","28","76",0,0
+"after 12mo",202305,"Maguey","38","60",0,0
+"after 12mo",202305,"Maguey","38","57",0,0
+"after 12mo",202305,"Maguey","38","58",0,0
+"after 12mo",202305,"Maguey","38","59",0,0
+"after 12mo",202305,"Maguey","43","66",0,0
+"after 12mo",202305,"Maguey","43","65",0,0
+"after 12mo",202305,"Maguey","43","67",0,0
+"after 12mo",202305,"Maguey","43","68",0,0
+"after 12mo",202305,"Maguey","45","85",0,0
+"after 12mo",202305,"Maguey","45","86",0,0
+"after 12mo",202305,"Maguey","45","87",0,0
+"after 12mo",202305,"Maguey","45","88",0,0
+"after 12mo",202305,"Maguey","48","49",0,0
+"after 12mo",202305,"Maguey","48","50",0,0
+"after 12mo",202305,"Maguey","48","51",0,0
+"after 12mo",202305,"Maguey","48","52",0,0
+"after 12mo",202305,"Maguey","73","77",1,1
+"after 12mo",202305,"Maguey","73","78",0,0
+"after 12mo",202305,"Maguey","73","79",0,0
+"after 12mo",202305,"Maguey","73","80",1,1
+"after 12mo",202305,"Maguey","74","93",0,0
+"after 12mo",202305,"Maguey","74","94",1,1
+"after 12mo",202305,"Maguey","74","95",0,0
+"after 12mo",202305,"Maguey","74","96",1,1
+"after 12mo",202305,"Tampico","01","14",0,0
+"after 12mo",202305,"Tampico","01","15",1,2
+"after 12mo",202305,"Tampico","01","16",0,0
+"after 12mo",202305,"Tampico","04","05",0,0
+"after 12mo",202305,"Tampico","04","06",0,0
+"after 12mo",202305,"Tampico","04","07",0,0
+"after 12mo",202305,"Tampico","04","08",0,0
+"after 12mo",202305,"Tampico","20","09",0,0
+"after 12mo",202305,"Tampico","20","10",0,0
+"after 12mo",202305,"Tampico","20","11",0,0
+"after 12mo",202305,"Tampico","20","12",0,0
+"after 12mo",202305,"Tampico","22","35",0,0
+"after 12mo",202305,"Tampico","22","33",0,0
+"after 12mo",202305,"Tampico","22","34",0,0
+"after 12mo",202305,"Tampico","22","36",0,0
+"after 12mo",202305,"Tampico","23","45",1,1
+"after 12mo",202305,"Tampico","23","46",1,1
+"after 12mo",202305,"Tampico","23","47",0,0
+"after 12mo",202305,"Tampico","23","48",1,1
+"after 12mo",202305,"Tampico","24","29",0,0
+"after 12mo",202305,"Tampico","24","30",0,0
+"after 12mo",202305,"Tampico","24","31",0,0
+"after 12mo",202305,"Tampico","24","32",0,0
+"after 12mo",202305,"Tampico","35","01",0,0
+"after 12mo",202305,"Tampico","35","02",0,0
+"after 12mo",202305,"Tampico","35","03",0,0
+"after 12mo",202305,"Tampico","35","04",0,0
+"after 12mo",202305,"Tampico","37","17",1,1
+"after 12mo",202305,"Tampico","37","18",0,0
+"after 12mo",202305,"Tampico","37","19",0,0
+"after 12mo",202305,"Tampico","37","20",0,0
+"after 12mo",202305,"Tampico","39","37",1,1
+"after 12mo",202305,"Tampico","39","38",0,0
+"after 12mo",202305,"Tampico","39","39",0,0
+"after 12mo",202305,"Tampico","39","40",0,0
+"after 12mo",202305,"Tampico","43","21",0,0
+"after 12mo",202305,"Tampico","43","22",0,0
+"after 12mo",202305,"Tampico","43","23",0,0
+"after 12mo",202305,"Tampico","43","24",0,0
+"after 12mo",202305,"Tampico","45","25",0,0
+"after 12mo",202305,"Tampico","45","26",1,1
+"after 12mo",202305,"Tampico","45","27",0,0
+"after 12mo",202305,"Tampico","45","28",0,0
+"after 6mo",202210,"Maguey","08","69",0,0
+"after 6mo",202210,"Maguey","08","70",0,0
+"after 6mo",202210,"Maguey","08","71",0,0
+"after 6mo",202210,"Maguey","08","72",0,0
+"after 6mo",202210,"Maguey","10","81",0,0
+"after 6mo",202210,"Maguey","10","82",0,0
+"after 6mo",202210,"Maguey","10","83",0,0
+"after 6mo",202210,"Maguey","10","84",0,0
+"after 6mo",202210,"Maguey","12","53",0,0
+"after 6mo",202210,"Maguey","12","54",0,0
+"after 6mo",202210,"Maguey","12","55",0,0
+"after 6mo",202210,"Maguey","12","56",0,0
+"after 6mo",202210,"Maguey","15","61",0,0
+"after 6mo",202210,"Maguey","15","62",0,0
+"after 6mo",202210,"Maguey","15","63",0,0
+"after 6mo",202210,"Maguey","15","64",0,0
+"after 6mo",202210,"Maguey","17","89",0,0
+"after 6mo",202210,"Maguey","17","90",0,0
+"after 6mo",202210,"Maguey","17","92",0,0
+"after 6mo",202210,"Maguey","28","73",0,0
+"after 6mo",202210,"Maguey","28","74",0,0
+"after 6mo",202210,"Maguey","28","75",0,0
+"after 6mo",202210,"Maguey","28","76",0,0
+"after 6mo",202210,"Maguey","38","57",0,0
+"after 6mo",202210,"Maguey","38","58",0,0
+"after 6mo",202210,"Maguey","38","59",0,0
+"after 6mo",202210,"Maguey","38","60",0,0
+"after 6mo",202210,"Maguey","43","65",0,0
+"after 6mo",202210,"Maguey","43","66",0,0
+"after 6mo",202210,"Maguey","43","67",0,0
+"after 6mo",202210,"Maguey","43","68",0,0
+"after 6mo",202210,"Maguey","45","85",0,0
+"after 6mo",202210,"Maguey","45","86",0,0
+"after 6mo",202210,"Maguey","45","87",0,0
+"after 6mo",202210,"Maguey","45","88",0,0
+"after 6mo",202210,"Maguey","48","49",0,0
+"after 6mo",202210,"Maguey","48","50",0,0
+"after 6mo",202210,"Maguey","48","51",0,0
+"after 6mo",202210,"Maguey","48","52",0,0
+"after 6mo",202210,"Maguey","73","77",1,1
+"after 6mo",202210,"Maguey","73","78",1,1
+"after 6mo",202210,"Maguey","73","79",0,0
+"after 6mo",202210,"Maguey","74","93",0,0
+"after 6mo",202210,"Maguey","74","94",0,0
+"after 6mo",202210,"Maguey","74","95",0,0
+"after 6mo",202210,"Maguey","74","96",0,0
+"after 6mo",202210,"Tampico","01","14",0,0
+"after 6mo",202210,"Tampico","01","15",0,0
+"after 6mo",202210,"Tampico","01","16",0,0
+"after 6mo",202210,"Tampico","04","05",0,0
+"after 6mo",202210,"Tampico","04","06",0,0
+"after 6mo",202210,"Tampico","04","07",0,0
+"after 6mo",202210,"Tampico","04","08",0,0
+"after 6mo",202210,"Tampico","20","09",0,0
+"after 6mo",202210,"Tampico","20","10",0,0
+"after 6mo",202210,"Tampico","20","11",0,0
+"after 6mo",202210,"Tampico","20","12",0,0
+"after 6mo",202210,"Tampico","22","33",0,0
+"after 6mo",202210,"Tampico","22","34",0,0
+"after 6mo",202210,"Tampico","22","35",0,0
+"after 6mo",202210,"Tampico","22","36",0,0
+"after 6mo",202210,"Tampico","23","45",0,0
+"after 6mo",202210,"Tampico","23","46",0,0
+"after 6mo",202210,"Tampico","23","47",0,0
+"after 6mo",202210,"Tampico","24","29",0,0
+"after 6mo",202210,"Tampico","24","30",0,0
+"after 6mo",202210,"Tampico","24","31",0,0
+"after 6mo",202210,"Tampico","24","32",0,0
+"after 6mo",202210,"Tampico","26","41",0,0
+"after 6mo",202210,"Tampico","26","42",0,0
+"after 6mo",202210,"Tampico","26","43",0,0
+"after 6mo",202210,"Tampico","26","44",0,0
+"after 6mo",202210,"Tampico","35","01",0,0
+"after 6mo",202210,"Tampico","35","02",0,0
+"after 6mo",202210,"Tampico","35","03",0,0
+"after 6mo",202210,"Tampico","35","04",0,0
+"after 6mo",202210,"Tampico","37","17",1,0
+"after 6mo",202210,"Tampico","37","18",0,0
+"after 6mo",202210,"Tampico","37","19",0,0
+"after 6mo",202210,"Tampico","37","20",0,0
+"after 6mo",202210,"Tampico","39","37",0,0
+"after 6mo",202210,"Tampico","39","38",0,0
+"after 6mo",202210,"Tampico","39","39",0,0
+"after 6mo",202210,"Tampico","39","40",0,0
+"after 6mo",202210,"Tampico","43","21",0,0
+"after 6mo",202210,"Tampico","43","22",0,0
+"after 6mo",202210,"Tampico","43","23",0,0
+"after 6mo",202210,"Tampico","43","24",0,0
+"after 6mo",202210,"Tampico","45","25",0,0
+"after 6mo",202210,"Tampico","45","26",0,0
+"after 6mo",202210,"Tampico","45","27",0,0
+"after 6mo",202210,"Tampico","45","28",0,0
